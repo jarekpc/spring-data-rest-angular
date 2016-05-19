@@ -39,7 +39,7 @@ local.properties
 #.target
 
 # Tern plugin
-.tern-project
+#.tern-project
 
 # TeXlipse plugin
 .texlipse
